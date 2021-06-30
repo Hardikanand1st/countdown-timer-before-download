@@ -16,9 +16,8 @@ Responsive html download timer with a download button is usefull if you wants to
 3. css
 
 🤔 How to run it
-git clone this repo
-$ npm install
-$ npm start
+
+Simply add this files to your server. :)
 
 🔨 How To Contribute:
 
