@@ -24,6 +24,7 @@ Simply add this files to your server. :)
 Open Issue with any bug you noticed.
 Let me know if Me&You can add new features.
 And changes you think it'd be an added value.
-Thank you so much,
+
+🎶 Thank you so much,
 
 https://www.hardik.live
