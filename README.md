@@ -21,6 +21,7 @@ $ npm install
 $ npm start
 
 🔨 How To Contribute:
+
 Open Issue with any bug you noticed.
 Let me know if Me&You can add new features.
 And changes you think it'd be an added value.
